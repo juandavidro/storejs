@@ -1,0 +1,32 @@
+/*Index*/
+*{
+    background-image: url("../image/FondoIndex.jpg");
+    color:white;
+   
+}
+form{
+    position: absolute;
+    bottom: 40%;
+    left:25%;
+    top: 0%,
+    
+}
+form{
+    border: 1px solid rgba(168, 158, 160, 0.911);
+    padding: 6%;
+    
+}
+
+label{
+    font-size: 2em;
+}
+.btn-dark{
+    position: absolute;
+    top:86%;
+    left:30%;
+}
+.btn-primary{
+    position: relative;
+    left: 15%;
+    margin:10px;
+}
